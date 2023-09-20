@@ -1,3 +1,4 @@
+This no longer works because the API has been disabled by smartthings.
 # PowerThings
 
 Powershell module for SmartThings
